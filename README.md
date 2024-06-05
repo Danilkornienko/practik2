@@ -1,2 +1,2 @@
-# practik2
+# practika2
 for_up05
