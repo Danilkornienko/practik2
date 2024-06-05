@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.rsue.kornienko.bookdepository"
+    namespace = "ru.rsue.kornienko.bookdepository2"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ru.rsue.kornienko.bookdepository"
+        applicationId = "ru.rsue.kornienko.bookdepository2"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

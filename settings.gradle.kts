@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BookDepository"
+rootProject.name = "BookDepository2"
 include(":app")
+ 
